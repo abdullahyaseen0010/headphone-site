@@ -31,6 +31,9 @@ React · Vite · Tailwind CSS · Framer Motion · GSAP · Zustand · react-mouse
 ```bash
 git clone https://github.com/abdullahyaseen0010/headphone-site.git
 cd headphone-site
+npm ls react
+npm install --legacy-peer-deps
+npm install --force
 npm install
 ```
 
